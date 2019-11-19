@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-18T09:47:22.369Z</updated>
+  <updated>2019-11-19T15:54:21.560Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test1</title>
+    <title>标签测试test1</title>
     <link href="http://yoursite.com/2019/11/18/test1/"/>
     <id>http://yoursite.com/2019/11/18/test1/</id>
-    <published>2019-11-18T09:47:22.000Z</published>
-    <updated>2019-11-18T09:47:22.369Z</updated>
+    <published>2019-11-18T09:47:22.368Z</published>
+    <updated>2019-11-19T15:54:21.560Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+      <category term="-hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="-标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
     
   </entry>
   
@@ -36,16 +40,15 @@
     <link href="http://yoursite.com/2019/11/18/%E8%A1%A5%E5%85%85/"/>
     <id>http://yoursite.com/2019/11/18/%E8%A1%A5%E5%85%85/</id>
     <published>2019-11-18T09:43:24.476Z</published>
-    <updated>2019-11-19T15:49:45.794Z</updated>
+    <updated>2019-11-19T15:53:16.999Z</updated>
     
-    <content type="html"><![CDATA[<p>title: swp<br>tages:<br>  -标签1</p><h2 id="vim中的swp"><a href="#vim中的swp" class="headerlink" title="vim中的swp"></a>vim中的swp</h2><p>即swap（交换分区）的简写，在编辑文件时产生，它是隐藏文件。这个文件是一个临时交换文件，用来备份缓冲区中的内容。类似于Windows的虚拟内存，就是当内存不足的时候,把一部分硬盘空间虚拟成内存使用,从而解决内存容量不足的情况。</p><p>如果文件正常退出，则此文件自动删除。</p><p>如果并没有对文件进行修改，而只是读取文件，是不会产生swp文件的</p><p>产生swp得原因  </p><ul><li>1.当用多个程序编辑同一个文件时  </li><li>2.非常规退出时<br>当强行关闭vi时，比如电源突然断掉或者你使用了Ctrl+ZZ，vi自动生成一个.swp文件，下次再编辑时就会出现一些提示。</li></ul><p>题目<a href="http://123.206.31.85:3032/L3yx.php" target="_blank" rel="noopener">http://123.206.31.85:3032/L3yx.php</a><br>题解<a href="https://blog.csdn.net/vegetable_haker/article/details/103057196?utm_source=app" target="_blank" rel="noopener">https://blog.csdn.net/vegetable_haker/article/details/103057196?utm_source=app</a></p><p>16：13  19</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="vim中的swp"><a href="#vim中的swp" class="headerlink" title="vim中的swp"></a>vim中的swp</h2><p>即swap（交换分区）的简写，在编辑文件时产生，它是隐藏文件。这个文件是一个临时交换文件，用来备份缓冲区中的内容。类似于Windows的虚拟内存，就是当内存不足的时候,把一部分硬盘空间虚拟成内存使用,从而解决内存容量不足的情况。</p><p>如果文件正常退出，则此文件自动删除。</p><p>如果并没有对文件进行修改，而只是读取文件，是不会产生swp文件的</p><p>产生swp得原因  </p><ul><li>1.当用多个程序编辑同一个文件时  </li><li>2.非常规退出时<br>当强行关闭vi时，比如电源突然断掉或者你使用了Ctrl+ZZ，vi自动生成一个.swp文件，下次再编辑时就会出现一些提示。</li></ul><p>题目<a href="http://123.206.31.85:3032/L3yx.php" target="_blank" rel="noopener">http://123.206.31.85:3032/L3yx.php</a><br>题解<a href="https://blog.csdn.net/vegetable_haker/article/details/103057196?utm_source=app" target="_blank" rel="noopener">https://blog.csdn.net/vegetable_haker/article/details/103057196?utm_source=app</a></p><p>16：13  19</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;title: swp&lt;br&gt;tages:&lt;br&gt;  -标签1&lt;/p&gt;
-&lt;h2 id=&quot;vim中的swp&quot;&gt;&lt;a href=&quot;#vim中的swp&quot; class=&quot;headerlink&quot; title=&quot;vim中的swp&quot;&gt;&lt;/a&gt;vim中的swp&lt;/h2&gt;&lt;p&gt;即swap（交换
+        &lt;h2 id=&quot;vim中的swp&quot;&gt;&lt;a href=&quot;#vim中的swp&quot; class=&quot;headerlink&quot; title=&quot;vim中的swp&quot;&gt;&lt;/a&gt;vim中的swp&lt;/h2&gt;&lt;p&gt;即swap（交换分区）的简写，在编辑文件时产生，它是隐藏文件。这个文件是一个临时交换文件，用
       
     
     </summary>
